@@ -1,6 +1,18 @@
 # reels_app_7
 
-A new Flutter project.
+Working Video Demo:-
+
+
+ScreenShots:
+
+![1653382049354](https://user-images.githubusercontent.com/58290134/169991048-48b393ec-6278-4731-89f9-1fd2fa86bea2.jpg)
+
+
+![1653382049339](https://user-images.githubusercontent.com/58290134/169991085-fa9c9d61-8b8d-47e0-b13b-0522fa9f6e4f.jpg)
+
+
+![1653382049324](https://user-images.githubusercontent.com/58290134/169991113-65c7b1ca-26bd-4e45-a69b-df53a0d00195.jpg)
+
 
 ## Getting Started
 
